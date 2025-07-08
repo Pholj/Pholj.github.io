@@ -1,0 +1,11 @@
+.animated-gif {
+    background: url('Screenshot\ 2025-01-19\ at\ 11.38.00\ AM.png'); /* Replace with your static image */
+    width: 200px; /* Adjust as needed */
+    height: 200px; /* Adjust as needed */
+    background-size: cover;
+}
+
+.animated-gif:hover {
+    background: url('staticimg.gif'); /* Replace with your GIF */
+    background-size: cover;
+}
